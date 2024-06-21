@@ -11,4 +11,4 @@ Codigo: https://drive.google.com/drive/folders/1M7xv15BbAoqKvn7zCr4e0D2BxsgbwqGW
 
 Video:
 
-Repositorio:
+Repositorio: https://github.com/Jojans/IA_E2_FP
