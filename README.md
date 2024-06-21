@@ -12,6 +12,6 @@ Modelos: TrainTestSplit, DecisionTreeClassifier, RandomForestClassifier, Support
 
 Codigo: https://drive.google.com/drive/folders/1M7xv15BbAoqKvn7zCr4e0D2BxsgbwqGW?usp=sharing
 
-Video:
+Video: https://youtu.be/WbXcRYgC0Zk
 
 Repositorio: https://github.com/Jojans/IA_E2_FP
